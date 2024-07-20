@@ -37,7 +37,8 @@ And the [quantized mistral model](https://huggingface.co/TheBloke/Mistral-7B-Ins
 6. **Enter commands in terminal**: 
    1. ```python database_operations.py``` This will initialize the sqlite database for the chat sessions.
    2. ```streamlit run app.py```
-
+      
+Improvements I'm planning to build on later:-
 - Integrate Ollama, OpenAI, Gemini, or Other Model Providers.
 - Add Image Generator Model.
 - Authentication Mechanism.
